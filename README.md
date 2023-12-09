@@ -11,7 +11,9 @@ Source sode:
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0Y2djV4N2l0dXVzd194Mk5TZnBOZUFZQnF5QXxBQ3Jtc0tsREJORy14NFhtRmwzVTNEZlNSVUFsbWw4RkFvTUo2ODVhSXVsRGRKaHpWSWRxNnJ5SWZTMWhBS1ZMVFZGYWs1VjBKdDZ5QXBZYzJTZkhkNlFRajdteGp4bDRaQWJVNGVzUTVkTktBb242b1U4bDJuZw&q=https%3A%2F%2Fwww.codeitwise.com%2F2023%2F05%2Fsolar-system-using-html-css-only.html&v=jTRMKKSLWME
 
 
-I can not take credit for the code:
+I can not take credit for this code.
+
+Coders Data:
 
 Subscribe codeitwise YouTube channel -    / @codeitwise  
 
